@@ -1,4 +1,4 @@
-# Basic Twitter Sentiment Analytics using Apache Spark Streaming APIs and Python
+## Basic Twitter Sentiment Analytics using Apache Spark Streaming APIs and Python
 
 Simulated real-time streaming of tweets.
 Integrated Kafka to buffer tweets before processing.
